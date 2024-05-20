@@ -42,13 +42,10 @@ Antes de participar deste workshop, certifique-se de que você tenha o seguinte:
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
 
-## Autor
-
-Este workshop foi preparado por [Seu Nome].
 
 ## Contribuição
 
-Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/workshop-git-github/issues) ou enviar um pull request.
+Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma [issue](https://github.com/joaobenedetmachado/git-github/issues) ou enviar um pull request.
 
 ## Licença
 
